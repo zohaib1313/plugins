@@ -17,9 +17,9 @@ dependencies:
   flutter:
     sdk: flutter
   meta: 
-  intl: ^0.17.0
-  platform: ^3.0.0
-  flutter_plugin_android_lifecycle: ^2.0.0
+  intl: 
+  platform: 
+  flutter_plugin_android_lifecycle: 
 
 dev_dependencies:
   integration_test:
@@ -28,7 +28,7 @@ dev_dependencies:
     sdk: flutter
   flutter_test:
     sdk: flutter
-  pedantic: ^1.10.0
+  pedantic: 
 
 environment:
   sdk: ">=2.10.0 <3.0.0"
